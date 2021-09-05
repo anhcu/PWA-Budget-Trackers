@@ -48,7 +48,7 @@ This application allows a user to document any expense with and without internet
 ### Transaction
 ![transaction](public/assets/images/transaction.png)
 ### Offline
-![offline](Develop/public/assets/images/offline.png)
+![offline](public/assets/images/offline.png)
 ### Online
 ![online](Develop/public/assets/images/online.png)
 ### Reload

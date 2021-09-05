@@ -52,7 +52,7 @@ This application allows a user to document any expense with and without internet
 ### Online
 ![online](public/assets/images/online.png)
 ### Reload
-![reload](Develop/public/assets/images/reload.png)
+![reload](public/assets/images/reload.png)
 
 
 

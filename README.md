@@ -44,7 +44,7 @@ This application allows a user to document any expense with and without internet
 
 # Screenshots
 ### Homepage
-![homepage](Develop/public/assets/images/homepage.png)
+![homepage](public/assets/images/homepage.png)
 ### Transaction
 ![transaction](Develop/public/assets/images/transaction.png)
 ### Offline

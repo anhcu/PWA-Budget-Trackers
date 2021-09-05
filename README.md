@@ -50,7 +50,7 @@ This application allows a user to document any expense with and without internet
 ### Offline
 ![offline](public/assets/images/offline.png)
 ### Online
-![online](Develop/public/assets/images/online.png)
+![online](public/assets/images/online.png)
 ### Reload
 ![reload](Develop/public/assets/images/reload.png)
 

@@ -7,9 +7,9 @@ PWA (Progressive Web Application) is an application that allows users to be able
 * [User Story](#User-Story)
 * [Description](#Description)
 * [Installation](#Installation)
-* [Technologie Used](#Technologie)
+* [Technologie Used](#Technologie-Used)
 * [Screenshots](#Screenshots) 
-* [Deployed](###Deployed/Link)
+* [Deployed Link](###Deployed-Link)
 * [Contact](#Contact)
 # User Story 
 As a traveller, I sometimes travel to areas that do not have any internet connection.  I need an application that allows me to document all my expense.

@@ -1,6 +1,8 @@
 # PWA-Budget-Trackers
 PWA (Progressive Web Application) is an application that allows users to be able to add expenses and deposits to their budget with or without an internet connection.
 
+### Deployed 
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Table of Contents

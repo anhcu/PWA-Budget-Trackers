@@ -7,7 +7,7 @@ PWA (Progressive Web Application) is an application that allows users to be able
 * [User_Story](#User_Story)
 * [Description](#Description)
 * [Installation](#Installation)
-* [Technologie Used](#Technologie_Used)
+* [Technologie Used](#Technologie)
 * [Screenshots](#Screenshots) 
 * [Deployed](###Deployed_Link)
 * [Contact](#Contact)

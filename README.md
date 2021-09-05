@@ -38,6 +38,18 @@ This application allows a user to document any expense with and without internet
 | jQuery   |   
 
 # Screenshots
+### Homepage
+![homepage](Develop/public/assets/images/homepage.png)
+### Transaction
+![transaction](Develop/public/assets/images/transaction.png)
+### Offline
+![offline](Develop/public/assets/images/offline.png)
+### Online
+![online](Develop/public/assets/images/online.png)
+### Reload
+![reload](Develop/public/assets/images/reload.png)
+
+
 
 # Contact
 If you have any questions or would like to reach out please contact me at [LinkedIn](https://www.linkedin.com/in/anh-cu/).
